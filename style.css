@@ -1,15 +1,15 @@
 body {
-  background-color: lightgreen;
+  background-color: violet;
 }
 
 h1 {
-  color: lime;
+  color: yellow;
   margin-left: 40px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
-  color: lime;
+  color: yellow;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 40px;
 }
