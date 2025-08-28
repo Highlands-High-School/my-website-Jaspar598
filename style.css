@@ -1,8 +1,8 @@
 head {
-    background-image: linear-gradient(to right, violet, yellow);
+    background-image: linear-gradient(right, violet, yellow);
 }
 
 h1 {
-    color: black;
+    color: cornflowerblue;
     font-family: Verdana, Tahoma, sans-serif;
 }
